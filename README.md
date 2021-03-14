@@ -1,2 +1,2 @@
-# Class-35
-4 player greeting page
+# synchronousBallMovement
+Ball moving synchronously
